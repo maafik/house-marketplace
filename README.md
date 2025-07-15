@@ -1,15 +1,28 @@
-# House Marketplace
+# Flutter Food Delivery Application Design
 
-Find and list houses for sale or for rent. This is a React / Firebase v9 project from the React Front To Back 2022 course.
+## This application is not completed yet. Currently, I am working on it. 
+A small attempt to make an Food delivery app user interface in Flutter for Android and iOS.
 
-## Usage
+## 🤓 Author(s)
+**Md Tarikul Islam** [![Twitter Follow](https://img.shields.io/twitter/follow/tarikul711.svg?style=social)](https://twitter.com/tarikul711)
 
-### Geolocation
+## Food Ordering & Delivery App UI in Flutter
+<img src="screens/full_ui.png"  />
 
-The listings use Google geocoding to get the coords from the address field. You need to either rename .env.example to .env and add your Google Geocode API key OR in the **CreateListing.jsx** file you can set **geolocationEnabled** to "false" and it will add a lat/lng field to the form.
+## ScreenShots
+### Home Page
+<img src="screens/home_screen.jpg" height="500em" />
 
-### Run
+### Food Details Screen & Add To Cart Screen
+<img src="screens/detail_screen.jpg" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/add_to_cart_screen.jpg" height="500em" />
 
-```bash
-npm start
-```
+### Login & Registration Screen
+<img src="screens/login_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/signin_scren.jpg" height="500em" />
+
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
+* A little knowledge of Dart and Flutter
+* A brain to think 🤓🤓
+
+
